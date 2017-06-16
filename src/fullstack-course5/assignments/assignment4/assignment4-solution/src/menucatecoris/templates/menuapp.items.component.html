@@ -1,0 +1,18 @@
+<div id="dd" class="list-group">
+    <div class="list-group-item" ng-repeat="item in $ctrl.items">
+        <h2>{{ item.name }} ({{ item.short_name }})</h2>
+        <p>{{ item.description }}</p>
+    </div>
+</div>
+
+<!-- <div class="row">
+<dl>
+    <dt ng-repeat="item in $ctrl.items">
+
+        {{ item.name }} ({{ item.short_name }})
+          <dd>{{ item.description }}</dd>
+
+
+    </dt>
+</dl>
+</div> -->
