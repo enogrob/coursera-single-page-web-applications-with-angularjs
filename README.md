@@ -206,4 +206,61 @@ Lesson 5 - Nested Views and Transition Events
 [ ] Module 4 Wrap-Up 1 min
 [ ] Peer-graded Assignment: Module 4 Assignment 2h Due in 6 days
 [ ] Review Your Peers: Module 4 Assignment Due in 9 days
+
+WEEK 5
+
+Lesson 1: Form Validation and Introduction to Testing Javascript
+[x] Welcome to Module 52 min
+[x] Recommended Books 10 min
+[x] Lecture 42, Part 1: Form Validation 8 min
+[x] Lecture 42, Part 2: Form Validation 10 min
+[x] Practice Quiz: Quiz 41 3 questions
+[x] Lecture 43, Part 1: Testing Javascript with Jasmine8 min
+[x] Lecture 43, Part 2: Testing Javascript with Jasmine12 min
+[x] ENTER RAFFLE (ends April 23rd, 2017)10 min
+[x] Practice Quiz: Quiz 422 questions
+
+Lesson 2: Testing AngularJS Controllers and Services
+[ ] Lecture 44, Part 1: Testing AngularJS Controllers 6 min
+[ ] Lecture 44, Part 2: Testing AngularJS Controllers 6 min
+[ ] Lecture 44, Part 3: Testing AngularJS Controllers 2 min
+[ ] Lecture 44, Part 4: Testing AngularJS Controllers 5 min
+[ ] Practice Quiz: Quiz 43 2 questions
+[ ] Lecture 45, Part 1: Testing AngularJS Services and $http3 min
+[ ] Lecture 45, Part 2: Testing AngularJS Services and $http4 min
+[ ] Practice Quiz: Quiz 44 3 questions
+
+Lesson 3: Testing AngularJS Directives and Components
+[ ] Lecture 46, Part 1: Testing AngularJS Directives 6 min
+[ ] Lecture 46, Part 2: Testing AngularJS Directives 10 min
+[ ] Practice Quiz: Quiz 453 questions
+[ ] Lecture 47, Part 1: Testing AngularJS Components 2 min
+[ ] Lecture 47, Part 2: Testing AngularJS Components 5 min
+[ ] Practice Quiz: Quiz 461 question
+
+Lesson 4: Visit With Client, Old Site Overview, Restaurant Server Setup
+[ ] (OPTIONAL) Lecture 48, Part 1: Visit With The Client 11 min
+[ ] (OPTIONAL) Lecture 48, Part 2: Visit With The Client 9 min
+[ ] (OPTIONAL) Lecture 49, Part 1: Non-AngularJS Website Overview 8 min
+[ ] (OPTIONAL) Lecture 49, Part 2: Non-AngularJS Website Overview 10 min
+[ ] Lecture 50 (Mac Version): Restaurant Server Setup 14 min
+[ ] Lecture 50 (Windows Version): Restaurant Server Setup 13 min
+
+Lesson 5 - Coding the Restaurant Site in AngularJS
+[ ] Lecture 51, Part 1: Basic Structure of the Restaurant App 3 min
+[ ] Lecture 51, Part 2: Basic Structure of the Restaurant App 14 min
+[ ] Lecture 52: Coding Up a Loader/Spinner 6 min
+[ ] Lecture 53: Coding Up $http Interceptor 11 min
+[ ] Practice Quiz: Quiz 471 question
+[ ] Lecture 54: Coding Up Menu Categories View - Part 1  9 min
+[ ] Lecture 55: Coding Up Menu Categories View - Part 2 13 min
+[ ] Lecture 56: Coding Up Menu Categories View - Part 3 10 min
+[ ] Lecture 57: Single Category View - Part 1  4 min
+[ ] Lecture 58: Single Category View - Part 2 11 min
+[ ] Lecture 59: Single Category View - Part 3 13 min
+[ ] Frequently Asked Questions 10 min
+[ ] Keep In Touch with Me! (LINKS) 10 min
+[ ] Course Wrap-Up 1 min
+[ ] Peer-graded Assignment: Module 5 Assignment 2h
+[ ] Review Your Peers: Module 5 Assignment
 ```
