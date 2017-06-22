@@ -188,24 +188,24 @@ Lesson 3 -Introduction to Single Page Routing With ui-router
 [x] Practice Quiz: Quiz 36 1 question
 
 Lesson 4 - Handling Data with Routing
-[ ] Lecture 38, Part 1: Routing State with resolve 3 min
-[ ] Lecture 38, Part 2: Routing State with resolve 5 min
-[ ] Practice Quiz: Quiz 37 1 question
-[ ] Lecture 39, Part 1: Routing State with URL Parameters 2 min
-[ ] Lecture 39, Part 2: Routing State with URL Parameters 11 min
-[ ] Practice Quiz: Quiz 38 1 question
+[x] Lecture 38, Part 1: Routing State with resolve 3 min
+[x] Lecture 38, Part 2: Routing State with resolve 5 min
+[x] Practice Quiz: Quiz 37 1 question
+[x] Lecture 39, Part 1: Routing State with URL Parameters 2 min
+[x] Lecture 39, Part 2: Routing State with URL Parameters 11 min
+[x] Practice Quiz: Quiz 38 1 question
 
 Lesson 5 - Nested Views and Transition Events
-[ ] Lecture 40, Part 1: Routing State with Nested Views 2 min
-[ ] Lecture 40, Part 2: Routing State with Nested Views 9 min
-[ ] Practice Quiz: Quiz 39 2 questions
-[ ] Lecture 41, Part 1: Router State Transition Events 2 min
-[ ] Lecture 41, Part 2: Router State Transition Events 6 min
-[ ] Practice Quiz: Quiz 40 2 questions
-[ ] Frequently Asked Questions 10 min
-[ ] Module 4 Wrap-Up 1 min
-[ ] Peer-graded Assignment: Module 4 Assignment 2h Due in 6 days
-[ ] Review Your Peers: Module 4 Assignment Due in 9 days
+[x] Lecture 40, Part 1: Routing State with Nested Views 2 min
+[x] Lecture 40, Part 2: Routing State with Nested Views 9 min
+[x] Practice Quiz: Quiz 39 2 questions
+[x] Lecture 41, Part 1: Router State Transition Events 2 min
+[x] Lecture 41, Part 2: Router State Transition Events 6 min
+[x] Practice Quiz: Quiz 40 2 questions
+[x] Frequently Asked Questions 10 min
+[x] Module 4 Wrap-Up 1 min
+[x] Peer-graded Assignment: Module 4 Assignment 2h Due in 6 days
+[x] Review Your Peers: Module 4 Assignment Due in 9 days
 
 WEEK 5
 
@@ -221,22 +221,22 @@ Lesson 1: Form Validation and Introduction to Testing Javascript
 [x] Practice Quiz: Quiz 422 questions
 
 Lesson 2: Testing AngularJS Controllers and Services
-[ ] Lecture 44, Part 1: Testing AngularJS Controllers 6 min
-[ ] Lecture 44, Part 2: Testing AngularJS Controllers 6 min
-[ ] Lecture 44, Part 3: Testing AngularJS Controllers 2 min
-[ ] Lecture 44, Part 4: Testing AngularJS Controllers 5 min
-[ ] Practice Quiz: Quiz 43 2 questions
-[ ] Lecture 45, Part 1: Testing AngularJS Services and $http3 min
-[ ] Lecture 45, Part 2: Testing AngularJS Services and $http4 min
-[ ] Practice Quiz: Quiz 44 3 questions
+[x] Lecture 44, Part 1: Testing AngularJS Controllers 6 min
+[x] Lecture 44, Part 2: Testing AngularJS Controllers 6 min
+[x] Lecture 44, Part 3: Testing AngularJS Controllers 2 min
+[x] Lecture 44, Part 4: Testing AngularJS Controllers 5 min
+[x] Practice Quiz: Quiz 43 2 questions
+[x] Lecture 45, Part 1: Testing AngularJS Services and $http3 min
+[x] Lecture 45, Part 2: Testing AngularJS Services and $http4 min
+[x] Practice Quiz: Quiz 44 3 questions
 
 Lesson 3: Testing AngularJS Directives and Components
-[ ] Lecture 46, Part 1: Testing AngularJS Directives 6 min
-[ ] Lecture 46, Part 2: Testing AngularJS Directives 10 min
-[ ] Practice Quiz: Quiz 453 questions
-[ ] Lecture 47, Part 1: Testing AngularJS Components 2 min
-[ ] Lecture 47, Part 2: Testing AngularJS Components 5 min
-[ ] Practice Quiz: Quiz 461 question
+[x] Lecture 46, Part 1: Testing AngularJS Directives 6 min
+[x] Lecture 46, Part 2: Testing AngularJS Directives 10 min
+[x] Practice Quiz: Quiz 453 questions
+[x] Lecture 47, Part 1: Testing AngularJS Components 2 min
+[x] Lecture 47, Part 2: Testing AngularJS Components 5 min
+[x] Practice Quiz: Quiz 461 question
 
 Lesson 4: Visit With Client, Old Site Overview, Restaurant Server Setup
 [ ] (OPTIONAL) Lecture 48, Part 1: Visit With The Client 11 min
