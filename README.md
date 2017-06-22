@@ -239,12 +239,12 @@ Lesson 3: Testing AngularJS Directives and Components
 [x] Practice Quiz: Quiz 461 question
 
 Lesson 4: Visit With Client, Old Site Overview, Restaurant Server Setup
-[ ] (OPTIONAL) Lecture 48, Part 1: Visit With The Client 11 min
-[ ] (OPTIONAL) Lecture 48, Part 2: Visit With The Client 9 min
-[ ] (OPTIONAL) Lecture 49, Part 1: Non-AngularJS Website Overview 8 min
-[ ] (OPTIONAL) Lecture 49, Part 2: Non-AngularJS Website Overview 10 min
-[ ] Lecture 50 (Mac Version): Restaurant Server Setup 14 min
-[ ] Lecture 50 (Windows Version): Restaurant Server Setup 13 min
+[x] (OPTIONAL) Lecture 48, Part 1: Visit With The Client 11 min
+[x] (OPTIONAL) Lecture 48, Part 2: Visit With The Client 9 min
+[x] (OPTIONAL) Lecture 49, Part 1: Non-AngularJS Website Overview 8 min
+[x] (OPTIONAL) Lecture 49, Part 2: Non-AngularJS Website Overview 10 min
+[x] Lecture 50 (Mac Version): Restaurant Server Setup 14 min
+[x] Lecture 50 (Windows Version): Restaurant Server Setup 13 min
 
 Lesson 5 - Coding the Restaurant Site in AngularJS
 [ ] Lecture 51, Part 1: Basic Structure of the Restaurant App 3 min
