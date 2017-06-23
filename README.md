@@ -247,20 +247,20 @@ Lesson 4: Visit With Client, Old Site Overview, Restaurant Server Setup
 [x] Lecture 50 (Windows Version): Restaurant Server Setup 13 min
 
 Lesson 5 - Coding the Restaurant Site in AngularJS
-[ ] Lecture 51, Part 1: Basic Structure of the Restaurant App 3 min
-[ ] Lecture 51, Part 2: Basic Structure of the Restaurant App 14 min
-[ ] Lecture 52: Coding Up a Loader/Spinner 6 min
-[ ] Lecture 53: Coding Up $http Interceptor 11 min
-[ ] Practice Quiz: Quiz 471 question
-[ ] Lecture 54: Coding Up Menu Categories View - Part 1  9 min
-[ ] Lecture 55: Coding Up Menu Categories View - Part 2 13 min
-[ ] Lecture 56: Coding Up Menu Categories View - Part 3 10 min
-[ ] Lecture 57: Single Category View - Part 1  4 min
-[ ] Lecture 58: Single Category View - Part 2 11 min
-[ ] Lecture 59: Single Category View - Part 3 13 min
-[ ] Frequently Asked Questions 10 min
-[ ] Keep In Touch with Me! (LINKS) 10 min
-[ ] Course Wrap-Up 1 min
-[ ] Peer-graded Assignment: Module 5 Assignment 2h
-[ ] Review Your Peers: Module 5 Assignment
+[x] Lecture 51, Part 1: Basic Structure of the Restaurant App 3 min
+[x] Lecture 51, Part 2: Basic Structure of the Restaurant App 14 min
+[x] Lecture 52: Coding Up a Loader/Spinner 6 min
+[x] Lecture 53: Coding Up $http Interceptor 11 min
+[x] Practice Quiz: Quiz 471 question
+[x] Lecture 54: Coding Up Menu Categories View - Part 1  9 min
+[x] Lecture 55: Coding Up Menu Categories View - Part 2 13 min
+[x] Lecture 56: Coding Up Menu Categories View - Part 3 10 min
+[x] Lecture 57: Single Category View - Part 1  4 min
+[x] Lecture 58: Single Category View - Part 2 11 min
+[x] Lecture 59: Single Category View - Part 3 13 min
+[x] Frequently Asked Questions 10 min
+[x] Keep In Touch with Me! (LINKS) 10 min
+[x] Course Wrap-Up 1 min
+[x] Peer-graded Assignment: Module 5 Assignment 2h
+[x] Review Your Peers: Module 5 Assignment
 ```
