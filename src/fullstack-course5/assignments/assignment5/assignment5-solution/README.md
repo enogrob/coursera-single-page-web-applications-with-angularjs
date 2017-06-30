@@ -1,2 +1,2 @@
-# module5-assignment
-Module5 assignment
+# AngularJS-module5.solution
+Module 5 assignment
